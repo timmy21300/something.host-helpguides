@@ -10,4 +10,5 @@ node main.js
 echo Restarting Bot...
 goto main```
 
+
 2. Open `Event Scheduler` in Administrator mode
