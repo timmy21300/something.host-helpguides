@@ -1,6 +1,6 @@
 # How to automatically start your Bot on VPS start up (Windows)
 
-1. Create a `start.bat` file in your bot folder. This file should contain below, replace `index.js` if your bot has ai different file. (Using this will alsowe restart your bot if is unexpectedly goes 'offline'.
+1. Create a `start.bat` file in your bot folder. This file should contain below, replace `index.js` if your bot has a different file. (Using this will also restart your bot if it unexpectedly goes 'offline'.
 ```bat
 @echo off
 echo Starting...
@@ -10,7 +10,7 @@ echo Restarting Bot...
 goto main
 ```
 
-1. Open `Task Scheduler` in Administrator mode
+1. Open `Task Scheduler` in Administrator mode.
 ![Open Task Scheduler](http://zentool.xyz/images/mstsc_Hdd6wS8owO.png)
 
 2. Select `Create Task` on the right panel.
@@ -19,7 +19,8 @@ goto main
 
 ![Set Task Name](http://zentool.xyz/images/mstsc_urX1yZQ6gh.png)
 
-4. Ensure the trigger `Begin the task` is set to `At startup` then press `OK`
+4. Ensure the trigger's `Begin the task` is set to `At startup` then press `OK`.
+![Set Task Trigger](http://zentool.xyz/images/mstsc_XcjntMwk2k.png)
 
 5. Then click actions and create a new action. The action will need to be set to `Start a program`. The Program/Script should be your bot directory + `\start.bat` e.g. `C:\MyBot\start.bat`. The `Start in` field should be populated with your bot directory only e.g. `C:\MyBot\`.
 ![Edit Action](http://zentool.xyz/images/mstsc_phsVXlP4tz.png)
