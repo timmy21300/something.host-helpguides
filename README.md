@@ -9,6 +9,7 @@ This is not an offical something.host help guide, use this at your own risk
 2. On the VPS Panel press F12 to Open Developer Tools
 ![Image](http://zentool.xyz/images/chrome_13NAG0x0Hk.png)
 3. In the `Console` type `deployImage('windows-server-2019')` and press enter as shown above.
+
 4. Press `confirm`
 ![Image](http://zentool.xyz/images/chrome_6izC7bqXLO.png)
 5. You will be given a new password, ensure you take not of this. You will need it to login using RDP.
