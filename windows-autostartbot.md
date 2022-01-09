@@ -16,6 +16,7 @@ goto main
 2. Select `Create Task` on the right panel.
 
 3. Select a name for your task and select `Run whether user is logged on or not` (With out selecting this option the bot will not start) Then select `triggers` and create a new trigger.
+
 ![Set Task Name](http://zentool.xyz/images/mstsc_urX1yZQ6gh.png)
 
 4. Ensure the trigger `Begin the task` is set to `At startup` then press `OK`
