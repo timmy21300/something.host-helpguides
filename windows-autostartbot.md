@@ -14,3 +14,8 @@ goto main
 
 2. Open `Task Scheduler` in Administrator mode
 ![Open Task Scheduler](http://zentool.xyz/images/mstsc_Hdd6wS8owO.png)
+
+3. Select `Create Task` on the right panel.
+
+4. Select a name for your task and select `Run whether user is logged on or not` (With out selecting this option the bot will not start)
+![Set Task Name](http://zentool.xyz/images/mstsc_urX1yZQ6gh.png)
