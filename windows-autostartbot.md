@@ -2,20 +2,24 @@
 
 This is not an offical something.host guide.
 
-1. In your bot directory create a `start.bat` file. The contents of this file should beas below, replace `main.js` with your bots main file. Using this file will also restart your bot is it unexpectedly shuts down.
-```
+1. Create a `start.bat` file in your bot folder. This file should contain the following
+```bat
 @echo off
 echo Starting...
 :main
-node main.js
+node bot.js
 echo Restarting Bot...
 goto main
 ```
 
-2. Open `Task Scheduler` in Administrator mode
+1. Open `Task Scheduler` in Administrator mode
 ![Open Task Scheduler](http://zentool.xyz/images/mstsc_Hdd6wS8owO.png)
 
-3. Select `Create Task` on the right panel.
+2. Select `Create Task` on the right panel.
 
-4. Select a name for your task and select `Run whether user is logged on or not` (With out selecting this option the bot will not start)
+3. Select a name for your task and select `Run whether user is logged on or not` (With out selecting this option the bot will not start) Then select `triggers` and create a new trigger.
 ![Set Task Name](http://zentool.xyz/images/mstsc_urX1yZQ6gh.png)
+
+4. Ensure the trigger `Begin the task` is set to `At startup` then press `OK`
+
+5. Then click actions and create a new action. The action will need to be set to `Start a program`. The Program/Script should be `C:\Windows\System32\cmd.exe`. 
