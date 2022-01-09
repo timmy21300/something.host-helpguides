@@ -1,1 +1,1 @@
-# windows_vps_something.host
+# How to install Windows Server 2019 on a Something.Host VPS.
