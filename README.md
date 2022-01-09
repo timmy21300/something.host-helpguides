@@ -13,6 +13,7 @@ This is not an offical something.host help guide, use this at your own risk
 4. Press `confirm`
 5. You will be given a new password, ensure you take note of this. You will need it to login using RDP.
 6. The install of Windows Server will comince, it can take sometime to install. You will notice the Power State and Installed OS will display `updating`, once the install is complete, this will change to Power State `running` and Installed OS `undefined` (You may need to refresh the page to see any change).
+
 ![Image](http://zentool.xyz/images/chrome_mbsqwNzwMd.png)
 7. Once the install is complete, open Windows Remote Desktop. 
   The computer will be your VPS IP address e.g. `123.456.12.1`
