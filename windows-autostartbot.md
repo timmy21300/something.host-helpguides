@@ -1,4 +1,4 @@
-# How to automatically start your Bot on VPS start up
+# How to automatically start your Bot on VPS start up (Windows)
 
 This is not an offical something.host guide.
 
@@ -12,4 +12,5 @@ echo Restarting Bot...
 goto main
 ```
 
-2. Open `Event Scheduler` in Administrator mode
+2. Open `Task Scheduler` in Administrator mode
+![Open Task Scheduler](http://zentool.xyz/images/mstsc_Hdd6wS8owO.png)
