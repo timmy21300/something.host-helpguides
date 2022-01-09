@@ -10,4 +10,4 @@ This is not an offical something.host help guide, use this at your own risk
 ![Image](http://zentool.xyz/images/chrome_13NAG0x0Hk.png)
 3. In the `Console` type `deployImage('windows-server-2019')` and press enter as shown above.
 4. Press `confirm`
-5. ![Image}(http://zentool.xyz/images/chrome_6izC7bqXLO.png)
+5. ![Image](http://zentool.xyz/images/chrome_6izC7bqXLO.png)
