@@ -4,3 +4,4 @@
 
 1. Purchase a Something.Host Cloud VPS.
 2. On the VPS Panel press F12 to Open Developer Tools
+[Image](http://zentool.xyz/images/chrome_13NAG0x0Hk.png)
