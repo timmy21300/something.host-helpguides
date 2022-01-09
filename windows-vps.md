@@ -1,6 +1,6 @@
 # How to install Windows Server 2019 on a Something.Host VPS.
 
-![Something.Host](https://content.something.host/assets/img/logo.png)
+![Something.Host](https://zentool.xyz/images/somethinghostbanner.png)
 
 This is not an offical something.host help guide, use this at your own risk
 
