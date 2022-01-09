@@ -21,3 +21,5 @@ This is not an offical something.host help guide, use this at your own risk
   The username will be `Administrator`
   The password will be the password given from the something.host control panel.
 8. You will now be connected to your VPS using Windows Remote Desktop.
+
+If your password is not accepted, allow up to an hour for it to sync. If the issue persists create a [Something.Host ticket](https://cp.something.host/tickets/new)
