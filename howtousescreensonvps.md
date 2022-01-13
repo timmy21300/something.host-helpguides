@@ -6,10 +6,11 @@ This is not an offical Something.Host guide.
 
 Ensure you have already uploaded your Files to your VPS. You can use [Filezilla](https://filezilla-project.org/) to do this, a usefull guide can be [found here](https://support.something.host/en/article/transferring-files-from-and-to-your-vps-filezilla-1qa8arz/)
 
-Login Details:
-Username: root
-Password: Obvious...
-Post: 22
+Login Details:<br/>
+Username: root<br/>
+Password: Obvious...<br/>
+IP Address: The service IP address e.g. `123.456.78`<br/>
+Post: 22<br/>
 
 ### Creating a Screen!
 
