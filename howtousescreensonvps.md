@@ -15,5 +15,5 @@ Password: Obvious...
 2. In your VPS console type `apt-get install screen` and press return. This will install the ability to attach and detach from screens. 
 ![Run this in the console](http://zentool.xyz/images/Termius_z4szqfTBVO.png)
 3. We now need to create a "screen", in this example we will call it 'test'. Run `screen -s test` to create your screen. 
-![Run this too!](http://zentool.xyz/images/Termius_CdgCHIUFeT.png)
+![Run this too!](http://zentool.xyz/images/Termius_lSBZ217bsg.png)
 4. From this screen you can start your bot as normal. 
