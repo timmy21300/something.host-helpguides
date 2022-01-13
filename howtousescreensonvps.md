@@ -1,6 +1,6 @@
 # How to use Screens on a Something.Host VPS.
 
-This guide is designed to show you how to use screens on a VPS to keep the bot online, for this example we will use Terminus.
+This guide is designed to show you how to use screens on a VPS to keep the bot online, for this example we will use Termius.
 
 This is not an offical Something.Host guide.
 
@@ -14,7 +14,7 @@ Post: 22<br/>
 
 ### Creating a Screen!
 
-1. Connect to your VPS using Terminus or similar platform. 
+1. Connect to your VPS using Termius or similar platform. 
 
 2. In your VPS console type `apt-get install screen` and press return. This will install the ability to attach and detach from screens. 
 
