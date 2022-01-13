@@ -30,6 +30,14 @@ Post: 22
 5. Once your bot has started, we can detach from the screen. Your bot will continue to run. To do this press `Ctrl + A + D`, a message will appear telling you the detach was successful.
 
 ![Success](http://zentool.xyz/images/Termius_BCseHXyj3T.png)
+
 6. You can close Terminus and your bot will continue to run. 
 
+### Attaching to an existing screen!
+
+1. In your VPS console type `screen -x name`, replace `name` with the name you set your screen as. In this example it was `testbot`. 
+
+![Your Bot!](http://zentool.xyz/images/Termius_3LKdeLYvQ2.png)
+
+2. That's it, you can stop and restart your bot as normal.
 
