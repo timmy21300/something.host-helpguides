@@ -19,8 +19,10 @@ Post: 22
 3. We now need to create a "screen", in this example we will call it 'test'. Run `screen -s name` to create your screen. Replace name with something more suited to your session e.g. `testbot`. Hit return after!
 ![Run this too!](http://zentool.xyz/images/Termius_lSBZ217bsg.png)
 4. From this screen you can start your bot as normal.
+
 ![Started Bot](http://zentool.xyz/images/Termius_ULzWHW2dDL.png)
 5. Once your bot has started, we can detach from the screen. Your bot will continue to run. To do this press `Ctrl + A + D`, a message will appear telling you the detach was successful.
+
 ![Success](http://zentool.xyz/images/Termius_BCseHXyj3T.png)
 6. You can close Terminus and your bot will continue to run. 
 
