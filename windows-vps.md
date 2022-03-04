@@ -4,7 +4,7 @@
 
 This is not an offical something.host help guide, use this at your own risk
 
-### Note: This will not work Simple 2GB VPS.
+### Note: This will not work with Simple 2GB VPS.
 ### Note: This will erase all data on your VPS, ensure you have a backup of your data.
 
 1. Purchase a [Something.Host Cloud VPS](https://www.zentool.xyz/hosting).
