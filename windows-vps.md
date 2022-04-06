@@ -7,6 +7,8 @@ This is not an offical something.host help guide, use this at your own risk
 ### Note: This will not work with Simple 2GB VPS.
 ### Note: This will erase all data on your VPS, ensure you have a backup of your data.
 
+### DISCLAIMER: THIS IS A TRIAL VERSION OF WINDOWS SERVER 2019 AND **WILL** REQUIRE AN ACTIVATION KEY. SOMETHING.HOST IS LIABLE FOR VPS TERMINATIONS DUE TO THE LACK OF LICENSING OR ABUSIVE LICENSING. 
+
 1. Purchase a [Something.Host Cloud VPS](https://www.zentool.xyz/hosting).
 2. On the VPS Panel press F12 to Open Developer Tools
 ![Image](http://zentool.xyz/images/chrome_13NAG0x0Hk.png)
