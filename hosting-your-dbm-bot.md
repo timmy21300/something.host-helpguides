@@ -32,6 +32,7 @@ Port: Usually 23 (however check on the SomethingHost CP)
 ### 8. Now enter `node bot.js` into the console, your bot should now start up.
 ![StartingTheBot](http://timmyis.gay/images/chrome_5WY9w34YPq.png)
 
+### 9. Your bot is now online, go test a command!
 
 ## HELP!!!! I Get an error (need discord.js 13.7.0 to run!!!)
 ### Type `npm i discord.js@13.7.0` into your console.. then `node bot.js`. 
