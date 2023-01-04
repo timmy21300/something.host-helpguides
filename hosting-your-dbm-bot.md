@@ -19,5 +19,8 @@ Port: Usually 23 (however check on the SomethingHost CP)
 
 ![FilezilaConnectToService](http://timmyis.gay/images/filezilla_HAtSFwygDd.png)
 
-### 2. Create your DBM Bot and navigate to your bot directory
-![DBM-Image1](http://timmyis.gay/images/Discord_Bot_Maker_SOGQGC5t2c.png)
+### 5. Locate your DBM Bot directory folder on the left hand side (Your Local PC) and select all folders except 'Node Modules', click and drag the folders onto the right side (Remote Site) for upload. (Hold Ctrl to select more than folder at once)
+
+![UploadFilesOnFilezila](http://timmyis.gay/images/filezilla_D8GHTbDIcW.png)
+
+
