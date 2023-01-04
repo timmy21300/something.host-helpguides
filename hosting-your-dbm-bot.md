@@ -19,8 +19,15 @@ Port: Usually 23 (however check on the SomethingHost CP)
 
 ![FilezilaConnectToService](http://timmyis.gay/images/filezilla_HAtSFwygDd.png)
 
-### 5. Locate your DBM Bot directory folder on the left hand side (Your Local PC) and select all folders except 'Node Modules', click and drag the folders onto the right side (Remote Site) for upload. (Hold Ctrl to select more than folder at once)
+### 5. Locate your DBM Bot directory folder on the left hand side (Your Local PC) and select all folders except 'Node Modules', click and drag the folders onto the right side (Remote Site) for upload. (Hold Ctrl to select more than folder at once) Uploading your files may take a little bit of time, go grap a tea or coffee ;)
 
 ![UploadFilesOnFilezila](http://timmyis.gay/images/filezilla_D8GHTbDIcW.png)
 
+### 6. Once your files have uploaded head back to the Something.Host CP and click File Manager, you should see all your files which you uploaded.
+![FilesOnSomethingCP](http://timmyis.gay/images/chrome_UX9MTQAgTq.png)
 
+### 7. Go to your Console, click `Start` and type in `npm i` followed by enter/return
+![StartSomethingCPService](http://timmyis.gay/images/chrome_rTJVnLC5xn.png)
+
+### 8. Now enter `node bot.js` into the console, your bot should now start up.
+![StartingTheBot](http://timmyis.gay/images/chrome_5WY9w34YPq.png)
