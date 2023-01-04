@@ -12,10 +12,10 @@ This is not an offical something.host help guide, use this at your own risk
 
 ### 4. Using your SFTP login details connect to your service using a SFTP client. In this example we will be using Filezila, this is free to [download here](https://filezilla-project.org/download.php?type=client). Once downloaded, open Filezila and enter the login details provided on the something.host control panel. Example below; 
 
-Host: 'sftp://' & Host IP Address on SomethingHost CP
-Username: Username on SomethingHost CP
-Password: Password on SomethingHost CP
-Port: Usually 23 (however check on the SomethingHost CP)
+- Host: 'sftp://' & Host IP Address on SomethingHost CP
+- Username: Username on SomethingHost CP
+- Password: Password on SomethingHost CP
+- Port: Usually 23 (however check on the SomethingHost CP)
 
 ![FilezilaConnectToService](http://timmyis.gay/images/filezilla_HAtSFwygDd.png)
 
